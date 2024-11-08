@@ -6,7 +6,7 @@ import java.util.Queue;
 //Class representing a checkout counter in the supermarket
 public class CheckoutCounter 
 {
-	// Queue to hold the customers waiting at this counter
+    // Queue to hold the customers waiting at this counter
     private Queue<Customer> queue;
 
     // Statistics related to the counter's performance
